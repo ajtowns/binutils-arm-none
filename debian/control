@@ -3,7 +3,7 @@ Section: devel
 Priority: extra
 Maintainer: Anthony Towns <ajt@debian.org>
 Standards-Version: 3.0.1.1
-Build-Depends: autoconf (>= 2.13), bison, flex, gettext, texinfo, binutils (>= 2.9.5.0.12), gcc (>= 2.95.2), debhelper (>= 5), tar (>= 1.13.18), bzip2, findutils(>=4.2.31), binutils-source (>= ${source:Upstream-Version}), binutils-source (<= ${source:Upstream-Version}.999-99)
+Build-Depends: autoconf (>= 2.13), bison, flex, gettext, texinfo, binutils (>= 2.9.5.0.12), gcc (>= 2.95.2), debhelper (>= 5), tar (>= 1.13.18), bzip2, findutils(>=4.2.31), binutils-source (>= 2.22)
 
 Package: binutils-arm-none-eabi
 Section: devel
