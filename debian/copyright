@@ -1,0 +1,7 @@
+This is a debian pakcage of the GNU assembler, linker, and binary 
+utilities compiled for cross develoopment for ARM processors.
+
+Copyright: GNU General Public License
+
+On Debian GNU/Linux systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL'.
